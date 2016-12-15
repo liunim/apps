@@ -1,4 +1,3 @@
-
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
@@ -12,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.46.2:8017/app/yijiwallet/iphone.html</string>
+					<string>http://192.168.46.3:8099/gyd/download/ios.json</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -20,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>https://m.yiji.com/app/ios/wallet_2x.png</string>
+					<string>https://static.yiji.com/mobile_gzbankLoan/logo_2x.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -28,19 +27,19 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>https://m.yiji.com/app/ios/wallet_3x.png</string>
+					<string>https://static.yiji.com/mobile_gzbankLoan/logo_3x.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.yiji.YJFRecharge</string>
+				<string>com.yiji.LoanOfGZBank</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Ò×Æ·»ã</string>
+				<string>è´·æ¬¾åŠ©æ‰‹</string>
 			</dict>
 		</dict>
 	</array>
